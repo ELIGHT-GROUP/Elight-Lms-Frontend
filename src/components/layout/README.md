@@ -1,0 +1,1 @@
+- `layout/`: Contains layout components (header, footer, sidebar)
